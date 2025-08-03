@@ -32,13 +32,27 @@ Then continue with the setup:
 
 5. Set the subreddit to `artificialintelligence`.  
 6. Choose sorting: `top`, `hot`, or `new`. (Use `top` for this guide.)
-7. Set the **time period** to `past week`.  
-8. Optional: Set a post limit (e.g., 15).  
-9. Turn **Loop Mode ON**.
-   ➡️ [Click here to learn how Loop Mode works and when to use it.][What Does Loop Mode Do?](#-what-does-loop-mode-do)
-10. Use outputs like: `post_titles`, `post_urls`, `post_contents`, `post_dates`.
+7. Set the **time period** to `past week`.
+   
+   ➡️ [Click here to learn more about the Time Period setting.](#what-does-the-time-period-setting-do)
 
+8. Optional: Set a post limit (e.g., 15).
+
+9. Turn **Loop Mode ON**.
+     
+   ➡️ [Click here to learn how Loop Mode works and when to use it.](#what-does-loop-mode-do)
+
+10. Use outputs like: `post_titles`, `post_urls`, `post_contents`, `post_dates`.
 ---
+
+### What does the Time Period Setting Do?
+
+- week = posts from the last 7 days
+
+- month = last 30 days
+
+- all = no time filter (entire subreddit history)
+
 
 ### What Does Loop Mode Do?
 
