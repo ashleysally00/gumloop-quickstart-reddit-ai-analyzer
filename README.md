@@ -32,7 +32,7 @@ Then continue with the setup:
 
 5. Set the subreddit to `artificialintelligence`.  
 6. Choose sorting: `top`, `hot`, or `new`. (Use `top` for this guide.)
-7. 5.Optional: Set a post limit (e.g., 15).  
+7. Optional: Set a post limit (e.g., 15).  
 8. Turn **Loop Mode ON**.  
 9. Use outputs like: `post_titles`, `post_urls`, `post_contents`, `post_dates`.
 
