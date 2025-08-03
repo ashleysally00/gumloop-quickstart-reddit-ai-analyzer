@@ -22,8 +22,8 @@ Instead, search for "Reddit Scraper" and drop it into your flow after completing
 
 Then continue with the setup:
 
-1. On your Gumloop dashboard, click **New Flow** to start a project.  
-   <img src="https://raw.githubusercontent.com/ashleysally00/gumloop-quickstart-reddit-ai-analyzer/main/AddFirstNode.png" width="50%"/>
+1. On your Gumloop dashboard, click **Create Flow** to start a project.  
+   <img src="https://github.com/ashleysally00/gumloop-quickstart-reddit-ai-analyzer/blob/main/CreateFlow.png" width="40%"/>
 2. Drag the **Reddit Scraper** node onto the canvas.  
    <img src="https://raw.githubusercontent.com/ashleysally00/gumloop-quickstart-reddit-ai-analyzer/main/RedditScraper.png" width="50%"/>
 3. Set the subreddit to `artificialintelligence`.  
