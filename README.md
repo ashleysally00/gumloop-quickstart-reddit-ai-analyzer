@@ -33,6 +33,46 @@ Then continue with the setup:
 5. Set the subreddit to `artificialintelligence`.  
 6. Choose sorting: `top`, `hot`, or `new`. (Use `top` for this guide.)
 7. Optional: Set a post limit (e.g., 15).  
-8. Turn **Loop Mode ON**.  
-9. Use outputs like: `post_titles`, `post_urls`, `post_contents`, `post_dates`.
+8. Turn **Loop Mode ON**.
+   ➡️ [Click here to learn how Loop Mode works and when to use it.][What Does Loop Mode Do?](#-what-does-loop-mode-do)
+10. Use outputs like: `post_titles`, `post_urls`, `post_contents`, `post_dates`.
+
+---
+
+### What Does Loop Mode Do?
+
+Let's say the Reddit Scraper finds 15 posts.
+
+If you **turn ON Loop Mode**, Gumloop will do the next step (like analyze with AI or send to a spreadsheet) **one post at a time**:
+
+```
+Post 1 → analyze
+Post 2 → analyze
+Post 3 → analyze
+... and so on
+```
+
+**Use Loop Mode when:**
+- You want AI to give feedback on **each post**
+- You want to **filter** or **sort** individual posts
+- You want to **send each post** to its own row in a spreadsheet
+
+If you **leave Loop Mode OFF**, Gumloop sends all posts together to the next step:
+
+```
+All posts → analyze as one big chunk
+```
+
+**Use this when:**
+- You want a **summary** or overview
+- You want **group stats** like keyword frequency across all posts
+
+**In short:**
+
+| Loop Mode     | What happens                  | When to use it                             |
+|---------------|-------------------------------|---------------------------------------------|
+| ✅ ON          | Each item handled one-by-one  | You want to work with **each post**         |
+| ❌ OFF         | All items sent together       | You want to work with the **whole list**    |
+
+---
 
