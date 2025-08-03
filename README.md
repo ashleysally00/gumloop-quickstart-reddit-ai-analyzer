@@ -24,12 +24,15 @@ Then continue with the setup:
 
 1. On your Gumloop dashboard, click **Create Flow** to start a project.  
    <img src="https://github.com/ashleysally00/gumloop-quickstart-reddit-ai-analyzer/blob/main/CreateFlow.png" width="40%"/>
-2. Drag the **Reddit Scraper** node onto the canvas.  
+2. Search for the **Reddit Scraper** node.
+  <img src="https://raw.githubusercontent.com/ashleysally00/gumloop-quickstart-reddit-ai-analyzer/main/SearchForReddit.png" width="30%"/>   
+
+4. Drag the **Reddit Scraper** node onto the canvas.     
    <img src="https://raw.githubusercontent.com/ashleysally00/gumloop-quickstart-reddit-ai-analyzer/main/RedditScraper.png" width="50%"/>
-3. Set the subreddit to `artificialintelligence`.  
-4. Choose sorting: `top`, `hot`, or `new`. (Use `top` for this guide.)  
-   <img src="https://raw.githubusercontent.com/ashleysally00/gumloop-quickstart-reddit-ai-analyzer/main/SearchForReddit.png" width="50%"/>
-5. Optional: Set a post limit (e.g., 15).  
-6. Turn **Loop Mode ON**.  
-7. Use outputs like: `post_titles`, `post_urls`, `post_contents`, `post_dates`.
+
+5. Set the subreddit to `artificialintelligence`.  
+6. Choose sorting: `top`, `hot`, or `new`. (Use `top` for this guide.)
+7. 5.Optional: Set a post limit (e.g., 15).  
+8. Turn **Loop Mode ON**.  
+9. Use outputs like: `post_titles`, `post_urls`, `post_contents`, `post_dates`.
 
