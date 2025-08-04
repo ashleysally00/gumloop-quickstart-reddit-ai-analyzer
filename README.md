@@ -2,7 +2,7 @@
 
 wip
 
-Use this quickstart guide with a Reddit AI trend analyzer to get started with Gumloop — an automation platform that helps you create visual data workflows using drag, drop, connect, go.
+Use this quickstart guide with a Reddit movie trend analyzer to get started with Gumloop — an automation platform that helps you create visual data workflows using drag, drop, connect, go.
 
 ## Step 1: Sign Up or Log In
 
